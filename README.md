@@ -2,6 +2,7 @@
 ## Connection JavaFX Windows SDK
 ---
 1.Download JavaFX Windows SDK(javafx-sdk-17.0.2)
+![alt text](1/webp "Описание будет тут")​
 
 2.In IDEA go to menu File -> Project Structure
 
